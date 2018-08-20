@@ -4,10 +4,10 @@
 	pageEncoding="ISO-8859-1"%>
 <html>
 <head>
-<%-- <jsp:include page="header.jsp"></jsp:include> --%>
+<jsp:include page="header.jsp"></jsp:include>
 
 
-<%-- <jsp:include page="header2.jsp"></jsp:include> --%>
+<jsp:include page="header2.jsp"></jsp:include>
 
 
 <title>Update Profile Page</title>
@@ -97,7 +97,7 @@ function selectCardNumberPressed(){
 
 </center>
 
-<%-- <footer> <jsp:include page="footer.jsp"></jsp:include></footer>  --%>
+<footer> <jsp:include page="footer.jsp"></jsp:include></footer> 
 
 </body>
 </html>
